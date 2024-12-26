@@ -1,0 +1,8 @@
+/* Envato Custom CSS - applied to the element it affects */
+/* border-radius on tab border */
+.envato-kit-195-roundborders .elementor-tabs div{
+	border-radius: 4px
+}
+.envato-kit-195-roundborders .elementor-toggle-item{
+	border-bottom: 1px solid #ccc
+}
